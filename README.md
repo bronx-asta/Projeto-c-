@@ -1,2 +1,2 @@
-# Projeto-c-
-Projeto de linguagem c#
+# Projeto-c
+Projeto de linguagem c
